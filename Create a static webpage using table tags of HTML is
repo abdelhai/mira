@@ -1,0 +1,166 @@
+Create a static webpage using table tags of HTML
+
+<html>
+
+<body>
+
+<TABLE BORDER="1" CELLPADDING="2">
+
+<CAPTION ALIGN="Top"><b>Specification Table with Hours 
+
+and Marks<CAPTION>
+
+<TR>
+
+<TH ROWSPAN="2">Unit No.</TH>
+
+<TH ROWSPAN="2">Unit Title</TH>
+
+<TH ROWSPAN="2">Teaching Hours</TH>
+
+<TH Colspan="4">Distribution of Theory Marks</TH>
+
+</TR>
+
+<TR>
+
+<TD>R Level </TD>
+
+<TD>U Level </TD>
+
+<TD>A Level </TD>
+
+<TD>Total Marks </TD>
+
+</TR>
+
+<TR>
+
+<TD> <center>I </TD>
+
+<TD>Introduction to Internet Technology</TD>
+
+<TD><center>2</TD>
+
+<TD><center>4</TD>
+
+<TD><center>4</TD>
+
+<TD><center>0</TD>
+
+<TD><center>8</TD>
+
+</TR>
+
+<TR>
+
+<TD> <center>II </TD>
+
+<TD>Basics of HTML & CSS</TD>
+
+<TD><center>6</TD>
+
+<TD><center>0</TD>
+
+<TD><center>2</TD>
+
+<TD><center>6</TD>
+
+<TD><center>8</TD>
+
+</TR>
+
+<TR>
+
+<TD> <center>III </TD>
+
+<TD>Active Server Pages 3.0</TD>
+
+<TD><center>6</TD>
+
+<TD><center>4</TD>
+
+<TD><center>8</TD>
+
+<TD><center>0</TD>
+
+<TD><center>12</TD>
+
+</TR>
+
+<TR>
+
+<TD> <center>IV </TD>
+
+<TD>Server Side Coding with VBScript and XML</TD>
+
+<TD><center>8</TD>
+
+<TD><center>2</TD>
+
+<TD><center>4</TD>
+
+<TD><center>8</TD
+<TD><center>14</TD>
+
+</TR>
+
+<TR>
+
+<TD> <center>V </TD>
+
+<TD>ASP Objects & Components</TD>
+
+<TD><center>10</TD>
+
+<TD><center>4</TD>
+
+<TD><center>4</TD>
+
+<TD><center>6</TD>
+
+<TD><center>14</TD>
+
+</TR>
+
+<TR>
+
+<TD> <center>VI </TD>
+
+<TD>Accessing database with ASP & ADO</TD>
+
+<TD><center>10</TD>
+
+<TD><center>4</TD>
+
+<TD><center>4</TD>
+
+<TD><center>6</TD>
+
+<TD><center>14</TD>
+
+</tr>
+
+<TR>
+
+<TD> </TD>
+
+<TD><center><b>Total</TD>
+
+<TD><center><b>42</TD>
+
+<TD><center><b>18</TD>
+
+<TD><center><b>26</TD>
+
+<TD><center><b>26</TD>
+
+<TD><center><b>70</TD>
+</tr>
+
+</TABLE>
+
+</body>
+
+</html>
+
